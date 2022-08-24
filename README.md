@@ -167,7 +167,7 @@ It gives an overview of all the activities under the selected project and is div
   </a>
 </p>
 <p align="center">
-  <i> "Your vision, Our Kreation" </i>
+  <i> "CREATE VISION INSPIRE" </i>
   <br>
   <br>
   An institution that caters to all your software needs with their touch of Koding.
