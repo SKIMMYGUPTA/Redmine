@@ -56,7 +56,7 @@ It gives a log of all the activities that had happened in the project.
  - ⚙A changeset has been commited to the repository.
  - 📰A news has been added to the news area.
  - 📋A message in the forum area has been added.
- - A reply to a message in the forum has been added.
+ - 🖊A reply to a message in the forum has been added.
  - 📝A wiki page has been edited or newly created.
  - 📎A new file has been added in the files area or to a document.
  - 📄A new document has been added.
