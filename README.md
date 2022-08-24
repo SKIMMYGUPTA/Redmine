@@ -40,10 +40,11 @@ Create a issue by giving out all the issue details wherein you can set a deadlin
 
 ### Project Overview 
 
--   Issue Tracking - Overview of open and closed issues under each project  
--  Members - To keep track of all the members under the given project including developers, managers and project head.
+- Issue Tracking - Overview of open and closed issues under each project  
+- Members - To keep track of all the members under the given project including developers, managers and project head.
 - Spent Time - To log an new task, view details and report of the work.
 - Add Bookmark - To add/remove bookmark.
+
 
  <img alt="Logo"    height="10%" width="80%" src="./assets/overview.png"/>
 
@@ -68,7 +69,7 @@ It gives a log of all the activities that had happened in the project.
 It allows you to keep a track of the time you have spent on a particular issue or project. 
 
 #### _Log your work :_
-Click on Log Time on top right corner under 
+Click on Log Time in the top right corner under the issue you're assigned to.
 **Spent Time**
 <img alt="Log Time" align="center" height="10%" width="80%" src="./assets/spent.png"/>
 
