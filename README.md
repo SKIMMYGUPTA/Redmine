@@ -1,5 +1,5 @@
 <div align="center" >
-    <h1>Project Management App</h1>
+    <h1>Welcome To Redmine</h1>
  </h1>
     
 [![Follow](https://img.shields.io/github/followers/koders-in?label=Koders&style=social)](https://github.com/koders-in)
@@ -26,7 +26,7 @@ Once approved by one of the admins, you can login yourself with your login name 
 
 ## **Features**
 
-###  Issue Tracking
+###  Issues Tracking
 An issue is bound to a project, created/updated by the members of the project. 
 
 #### **Generate issues**
@@ -40,10 +40,11 @@ Create a issue by giving out all the issue details wherein you can set a deadlin
 
 ### Project Overview 
 
--   Issue Tracking - Overview of open and closed issues under each project  
--  Members - To keep track of all the members under the given project including developers, managers and project head.
+- Issue Tracking - Overview of open and closed issues under each project  
+- Members - To keep track of all the members under the given project including developers, managers and project head.
 - Spent Time - To log an new task, view details and report of the work.
 - Add Bookmark - To add/remove bookmark.
+
 
  <img alt="Logo"    height="10%" width="80%" src="./assets/overview.png"/>
 
@@ -56,7 +57,7 @@ It gives a log of all the activities that had happened in the project.
  - ⚙A changeset has been commited to the repository.
  - 📰A news has been added to the news area.
  - 📋A message in the forum area has been added.
- - A reply to a message in the forum has been added.
+ - 🖊A reply to a message in the forum has been added.
  - 📝A wiki page has been edited or newly created.
  - 📎A new file has been added in the files area or to a document.
  - 📄A new document has been added.
@@ -68,7 +69,7 @@ It gives a log of all the activities that had happened in the project.
 It allows you to keep a track of the time you have spent on a particular issue or project. 
 
 #### _Log your work :_
-Click on Log Time on top right corner under 
+Click on Log Time in the top right corner under the issue you're assigned to.
 **Spent Time**
 <img alt="Log Time" align="center" height="10%" width="80%" src="./assets/spent.png"/>
 
@@ -163,7 +164,7 @@ It gives an overview of all the activities under the selected project and is div
 
 <p align="center">
   <a href="https://koders.in/">
-    <img src="./assets/logo1.png" alt="Logo" width="200" height="200">
+    <img src="" alt="Logo" width="200" height="200">
   </a>
 </p>
 <p align="center">
