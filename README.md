@@ -1,8 +1,7 @@
 <div align="center" >
-    <h1>Welcome To Redmine</h1>
-    
- ![Screenshot_2022-08-24_170227-removebg-preview](https://user-images.githubusercontent.com/63269542/186408443-c9912d8d-5b4a-4c2d-8b4b-8f22b8f9fdb3.png)
 
+    <h1>Welcome To Redmine</h1>
+ ![Screenshot_2022-08-24_170227-removebg-preview](https://user-images.githubusercontent.com/63269542/186408443-c9912d8d-5b4a-4c2d-8b4b-8f22b8f9fdb3.png)
 
  </h1>
     
@@ -30,7 +29,7 @@ Once approved by one of the admins, you can login yourself with your login name 
 
 ## **Features**
 
-###  Issues Tracking
+###  Issue Tracking
 An issue is bound to a project, created/updated by the members of the project. 
 
 #### **Generate issues**
@@ -165,14 +164,13 @@ It gives an overview of all the activities under the selected project and is div
 
 
 ### Made with ❤️ by [Koders](http://koders.in/)
-
+ <center>
+![download](https://user-images.githubusercontent.com/87137729/186406897-68fda63e-57f6-418a-be2a-698429e98ecc.png)
+</center>
 <p align="center">
-  <a href="https://koders.in/">
-    <img src="" alt="Logo" width="200" height="200">
-  </a>
 </p>
 <p align="center">
-  <i> "Your vision, Our Kreation" </i>
+  <i> "Kreate. Vision. Inspire." </i>
   <br>
   <br>
   An institution that caters to all your software needs with their touch of Koding.
