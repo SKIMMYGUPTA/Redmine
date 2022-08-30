@@ -329,7 +329,16 @@ The **LOG TIME** section let users record the time spent on the particular issue
 
 People can always check the update history under the particular issue assigned. 
 
-` `If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
+If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
 
 
-**MADE WITH 💗 BY KODERS** 
+
+### Made with ❤️ by Koders
+![download](https://user-images.githubusercontent.com/87137729/186406897-68fda63e-57f6-418a-be2a-698429e98ecc.png)
+
+#### "Kreate. Vision. Inspire."
+
+An institution that caters to all your software needs with their touch of Koding.
+Explore More»
+
+Github · LinkedIn · Youtube· Instagram · Discord
