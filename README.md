@@ -335,7 +335,6 @@ If the issue gets completed, change the status of the issue to **RESOLVED**, and
 
 ### Made with ❤️ by Koders
 ![download](https://user-images.githubusercontent.com/87137729/186406897-68fda63e-57f6-418a-be2a-698429e98ecc.png)
-
 #### "Kreate. Vision. Inspire."
 
 An institution that caters to all your software needs with their touch of Koding.
