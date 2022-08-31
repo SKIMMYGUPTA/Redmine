@@ -316,49 +316,49 @@ In this you will be allowed to create new documents with both text and files. Th
 - Total Time Spent is displayed. 
 
 ##### **🔗️ADD – ON FEATURES**
-**🟡HOME**: directing to main page 
+**🟡 HOME**: directing to main page 
 
-**🟢MY PAGE**: showing the issues assigned to you and the issues that you have reported. Projects: contains the list of projects 
+**🟢 MY PAGE**: showing the issues assigned to you and the issues that you have reported. Projects: contains the list of projects 
 
-**🟣SEARCH**: Search words or sentences in the topic and content of issues. 
+**🟣 SEARCH**: Search words or sentences in the topic and content of issues. 
 
-**🔵DROP-DOWN LIST**: shows projects related to you and allows you to jump on the project page. After selecting the project, you want, the overview of the project will show up. 
+**🔵 DROP-DOWN LIST**: shows projects related to you and allows you to jump on the project page. After selecting the project, you want, the overview of the project will show up. 
 
-**🟡ISSUES**: shows all open issues 
+**🟡 ISSUES**: shows all open issues 
 
-**🟢NEW ISSUES**: allows creation of new issues 
+**🟢 NEW ISSUES**: allows creation of new issues 
 
-**🟣DOCUMENTS**: shows already uploaded records 
+**🟣 DOCUMENTS**: shows already uploaded records 
 
-**🔵SUBJECT** and **DESCRIPTION** let you add details about the issue.                                  
+**🔵 SUBJECT** and **DESCRIPTION** let you add details about the issue.                                  
 
-**🟡FILES**: helps attach files with maximum size. 
+**🟡 FILES**: helps attach files with maximum size. 
 
-**🟢WATCHERS**: the people selected from the drop-down menu will receive email about every update of the particular issue. 
+**🟢 WATCHERS**: the people selected from the drop-down menu will receive email about every update of the particular issue. 
 
-**🟣STATUS**: shows the status of the issue (new, in progress, resolved or closed). 
+**🟣 STATUS**: shows the status of the issue (new, in progress, resolved or closed). 
 
-**🔵PRIORITY**: shows the importance of the issue. 
+**🔵 PRIORITY**: shows the importance of the issue. 
 
-**🟡ASSIGNEE**: helps in the selection of the people for the project assigned. 
+**🟡 ASSIGNEE**: helps in the selection of the people for the project assigned. 
 
-**🟢DUE DATE**: specifies a deadline for the issue. 
+**🟢 DUE DATE**: specifies a deadline for the issue. 
 
-**🟣ESTIMATED TIME**: hours taken to complete the issue. 
+**🟣 ESTIMATED TIME**: hours taken to complete the issue. 
 
-🔵By clicking the issue, you’ll be able to enter the issue and see the description and updated details of the issue. 
+🔵 By clicking the issue, you’ll be able to enter the issue and see the description and updated details of the issue. 
 
-**🟡UPDATE**: adding updates to the issues. 
+**🟡 UPDATE**: adding updates to the issues. 
 
-**🟢WATCH/UNWATCH**: shows whether you are a watcher of the assigned issue, and could be modified by clicking it. 
+**🟢 WATCH/UNWATCH**: shows whether you are a watcher of the assigned issue, and could be modified by clicking it. 
 
-🟣In a particular issue, after clicking **“UPDATE”**, a section will show up which allows user to enter details. In this section, you will be able to change the properties of the issue. 
+🟣 In a particular issue, after clicking **“UPDATE”**, a section will show up which allows user to enter details. In this section, you will be able to change the properties of the issue. 
 
-🔵The **LOG TIME** section let users record the time spent on the particular issue and allows uploading of the attachment. 
+🔵 The **LOG TIME** section let users record the time spent on the particular issue and allows uploading of the attachment. 
 
-🟡People can always check the update history under the particular issue assigned. 
+🟡 People can always check the update history under the particular issue assigned. 
 
-🟢If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
+🟢 If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
 
 #### **Made with ❤️ by Koders**
 
