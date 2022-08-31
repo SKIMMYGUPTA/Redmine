@@ -182,7 +182,7 @@ Story  points  are  recommended  for  Agile  teams  that  implement  Scrum  meth
 
 ##### **🗓️CALENDAR** 
 
-` `The  calendar  provides  an  overview  of  the  current project  as  a monthly view.  The  view displays all the issues that have at least start date and indicates their start date and their due date. The calendar also displays the versions which have a due date set. 
+The  calendar  provides  an  overview  of  the  current project  as  a monthly view.  The  view displays all the issues that have at least start date and indicates their start date and their due date. The calendar also displays the versions which have a due date set. 
 
 ![](./assets/Aspose.Words.09c16525-a157-4123-ac17-e21d3f362ace.023.jpeg)
 
@@ -230,25 +230,26 @@ You can also assign a wikipage to a version which will be added to the roadmap a
 
 The following properties are configurable for (each of the) versions: 
 
-- **Name**: The text you want to be displayed to identify the version. 
-- **Description**: A short description to describe the version.  
-- **Status**: the status lets you control how issues can be assigned to the version: 
-- open: no restriction (default) 
-- locked: cannot assign new issues to the version 
-- closed: cannot assign new issues and cannot reopen assigned issues 
-- **Wiki Page**: The name of a wikipage assigned to the version.  
-- **Due date**: The due date for the version to be completed.  
-- **Sharing**: this option lets you share the version with other projects, so that issues from these other projects can be assigned to the shared versions. Each version can be shared with: 
-- subprojects: all the descendant projects 
-- projects in the project hierarchy: ancestors + descendants (needs versions management permission on the root project) 
-- projects in the project tree: root project + all its descendants (same as above) 
-- all projects (can be set by admin users only) 
+- **Name**: The text you want to display for identifying the version. 
+- **Description**: A short description of the displayed version.  
+- **Status**: the status lets you control how issues can be assigned in version.
+ **🔸open**: no restriction (default) 
+**🔸locked**: cannot assign new issues to the version 
+**🔸closed**: cannot reopen assigned issues 
+- **Wiki Page**: The name of page assigned to the version.  
+- **Due date**: The deadline of the version to be completed.  
+- **Sharing**: Lets you share the version with other projects. Each version can be shared with: 
+ **🔹subprojects**: all the descendant projects 
+**🔹projects in the project hierarchy**: needs versions management permission on the root project.
+**🔹projects in the project tree**: root project + all its descendants 
+ **🔹all projects** (can be set by admin users only) 
 - Sharing a version of a private project with public projects will make its name visible to everyone. 
-- From the versions list, you can click on **Close completed versions** to automatically set the status of all the completed versions (due date reached and no open issues) to *closed*. 
+- From the versions list, you can click on **Close Completed Versions** to automatically set the status of all the completed versions to **closed**. 
 
 ##### **🟡ISSUE CATEGORIES** 
 
-Issue categories let you to organize issues. Categories can for example correspond to the different components of your project. 
+Issue categories let you to organize issues. 
+Categories display the different components of the projects.
 
 You are able to configure your own set of issue categories for each individual project. It is also possible to auto-assign new issues to a specific user based on the chosen category of the newly created issues. 
 
@@ -261,9 +262,9 @@ The following properties are configurable for (each of the) issue categories:
 
 ##### **⏳TIME TRACKING** 
 
-Time tracking allows users to track how many hours of work are logged to a specific issue or project. Each time entry of "spent time" can be categorized by activity, and further explained with comments. By filling time estimates, project managers are able to produce better suited project planning as well as follow individual user's progress. 
+ Time tracking allows users to track how many hours of work are logged to a specific issue or project. Each time entry of "spent time" can be categorized by activity, and is further explained with comments. By filling time estimates, project managers are able to produce better planned projects.
 
-Time tracking is always related to a user; thus, it can be used to track how many billable hours this user has accomplished. See the spent time details or spent time report pages for more information. 
+Time tracking is always related to a user; thus, it can be used to track how many billable hours you have accomplished. 
 
 ![](./assets/Aspose.Words.09c16525-a157-4123-ac17-e21d3f362ace.029.jpeg)
 
@@ -271,7 +272,7 @@ Time tracking is always related to a user; thus, it can be used to track how man
 
 Each project can have its own wiki. Enable the module on the desired project to activate it. 
 
-- **Start page**: This page is used as the start page for the wiki in both the project menu wiki link as well as in the start page link in the wiki sidebar. 
+- **Start page**: This page is used as the start page for the wiki in both the project menu link as well as in the start page link at the sidebar. 
 
 ##### **🗃️REPOSITORY** 
 
@@ -288,13 +289,13 @@ Each project can have one or more discussion forums. Each forum has the followin
 
 ##### **🤖ACTIVITIES** 
 
-Among the value of time tracking activities which is registered to enumerations can be excluded when it is not used in the project. 
+Among the value of time tracking activities, which is registered to enumerations, can be excluded when not used in the project. 
 
-The value which is unchecked "Enabled" on this screen, it is not appear in activities options when entering time log 
+The value which is unchecked and is **"Enabled"** on this screen, do not appears in activity section when entering time log.
 
 ##### **🎦DOCUMENTS AND FILES**  
 
-In this you will be allowed to create new documents with both text and files. The procedures or notes could be kept for further use under the issue which could be updated under the documents section for everyone to access. 
+In this you will be allowed to create new documents with both text and files. The notes could be kept for further use and can be updated under the documents section for everyone to access. 
 
 ### **🌟HELP AND SUPPORT** 
 
@@ -306,51 +307,59 @@ In this you will be allowed to create new documents with both text and files. Th
 - Total Time Spent is displayed. 
 
 ##### **🔗️ADD – ON FEATURES**
-**HOME**: directing to main page 
+**🟡HOME**: directing to main page 
 
-**MY PAGE**: showing the issues assigned to you and the issues that you have reported. Projects: contains the list of projects 
+**🟢MY PAGE**: showing the issues assigned to you and the issues that you have reported. Projects: contains the list of projects 
 
-**SEARCH**: Search words or sentences in the topic and content of issues. 
+**🟣SEARCH**: Search words or sentences in the topic and content of issues. 
 
-**DROP-DOWN LIST**: shows projects related to you and allows you to jump on the project page. After selecting the project, you want, the overview of the project will show up. 
+**🔵DROP-DOWN LIST**: shows projects related to you and allows you to jump on the project page. After selecting the project, you want, the overview of the project will show up. 
 
-**ISSUES**: shows all open issues 
+**🟡ISSUES**: shows all open issues 
 
-**NEW ISSUES**: allows creation of new issues 
+**🟢NEW ISSUES**: allows creation of new issues 
 
-**DOCUMENTS**: shows already uploaded records 
+**🟣DOCUMENTS**: shows already uploaded records 
 
-**SUBJECT** and **DESCRIPTION** let you add details about the issue.                                  
+**🔵SUBJECT** and **DESCRIPTION** let you add details about the issue.                                  
 
-**FILES**: helps attach files with maximum size. 
+**🟡FILES**: helps attach files with maximum size. 
 
-**WATCHERS**: the people selected from the drop-down menu will receive email about every update of the particular issue. 
+**🟢WATCHERS**: the people selected from the drop-down menu will receive email about every update of the particular issue. 
 
-**STATUS**: shows the status of the issue (new, in progress, resolved or closed). 
+**🟣STATUS**: shows the status of the issue (new, in progress, resolved or closed). 
 
-**PRIORITY**: shows the importance of the issue. 
+**🔵PRIORITY**: shows the importance of the issue. 
 
-**ASSIGNEE**: helps in the selection of the people for the project assigned. 
+**🟡ASSIGNEE**: helps in the selection of the people for the project assigned. 
 
-**DUE DATE**: specifies a deadline for the issue. 
+**🟢DUE DATE**: specifies a deadline for the issue. 
 
-**ESTIMATED TIME**: hours taken to complete the issue. 
+**🟣ESTIMATED TIME**: hours taken to complete the issue. 
 
-By clicking the issue, you’ll be able to enter the issue and see the description and updated details of the issue. 
+🔵By clicking the issue, you’ll be able to enter the issue and see the description and updated details of the issue. 
 
-**UPDATE**: adding updates to the issues. 
+**🟡UPDATE**: adding updates to the issues. 
 
-**WATCH/UNWATCH**: shows whether you are a watcher of the assigned issue, and could be modified by clicking it. 
+**🟢WATCH/UNWATCH**: shows whether you are a watcher of the assigned issue, and could be modified by clicking it. 
 
-In a particular issue, after clicking **“UPDATE”**, a section will show up which allows user to enter details. In this section, you will be able to change the properties of the issue. 
+🟣In a particular issue, after clicking **“UPDATE”**, a section will show up which allows user to enter details. In this section, you will be able to change the properties of the issue. 
 
-The **LOG TIME** section let users record the time spent on the particular issue and allows uploading of the attachment. 
+🔵The **LOG TIME** section let users record the time spent on the particular issue and allows uploading of the attachment. 
 
-People can always check the update history under the particular issue assigned. 
+🟡People can always check the update history under the particular issue assigned. 
 
-If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
+🟢If the issue gets completed, change the status of the issue to **RESOLVED**, and the managers assigned to the project will close the issue, which removes the issue from **OPEN** issue list. 
 
 #### **Made with ❤️ by Koders**
+
+
+
+
+
+
+
+
 
 
 
