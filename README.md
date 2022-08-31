@@ -233,16 +233,25 @@ The following properties are configurable for (each of the) versions:
 - **Name**: The text you want to display for identifying the version. 
 - **Description**: A short description of the displayed version.  
 - **Status**: the status lets you control how issues can be assigned in version.
-  **🔸open**: no restriction (default) 
+
+  **🔸open**: no restriction (default)
+  
   **🔸locked**: cannot assign new issues to the version 
+  
   **🔸closed**: cannot reopen assigned issues 
 - **Wiki Page**: The name of page assigned to the version.  
 - **Due date**: The deadline of the version to be completed.  
 - **Sharing**: Lets you share the version with other projects. Each version can be shared with: 
+
+
   **🔹subprojects**: all the descendant projects 
+  
   **🔹projects in the project hierarchy**: needs versions management permission on the root project.
-  **🔹projects in the project tree**: root project + all its descendants 
+  
+  **🔹projects in the project tree**: root project + all its descendants
+  
   **🔹all projects** (can be set by admin users only) 
+  
 - Sharing a version of a private project with public projects will make its name visible to everyone. 
 - From the versions list, you can click on **Close Completed Versions** to automatically set the status of all the completed versions to **closed**. 
 
