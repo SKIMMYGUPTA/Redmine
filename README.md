@@ -59,6 +59,7 @@ Create an Issue by updating all the details, where you can set deadline and esti
 ##### **📝PROJECT ACTIVITY** 
 
 - Gives a log of activities that are carried out in the project. 
+
 ![](./assets/Aspose.Words.13e42bd3-9cb4-4e9d-b0cc-d96f348ded92.008.jpeg)
 
 - ✒️A new issue has been updated or created. 
